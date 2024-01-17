@@ -1,1 +1,2 @@
 node_modules/yargs/* -text
+* text=auto eol=crlf
